@@ -81,7 +81,7 @@
 
 .dashboard-container {
   position: relative;
-  padding-bottom: 56.25%;
+  padding-bottom: 125%;
   padding-top: 25px;
   margin-top: 20px;
   margin-left: auto;
@@ -89,7 +89,7 @@
   height: 0 
 }
 
-#dash-iframe {
+.bi-dashboard {
   position: absolute;
   top: 0;
   left: 0;

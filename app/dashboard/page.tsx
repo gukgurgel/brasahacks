@@ -3,7 +3,6 @@
 const Dashboard = () => {
     return (
         <p id="dashboard-container">
-            
         </p>
     );
 }
